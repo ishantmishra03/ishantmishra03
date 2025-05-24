@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ishant</h1>
 <h3 align="center">A passionate Full Stack Developer 🚀</h3>
-
 ---
-
 - 🔭 Currently working on **backend development**
 - 🌱 Learning more about **Node.js, APIs, and databases**
 - 🤝 Looking to collaborate on **DevOps & cloud-native projects**

@@ -13,10 +13,10 @@
 <h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>

@@ -45,8 +45,3 @@
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev0379&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>

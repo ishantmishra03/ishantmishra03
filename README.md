@@ -1,47 +1,35 @@
-<h3 align="center">🚀 Full Stack Developer • Problem Solver • Lifelong Learner</h3>
+<h1 align="center">🚀 Full Stack Developer • Creative Problem Solver • Lifelong Learner</h1>
 
----
+<h3 align="center">Building scalable web experiences with performance, elegance & clarity in mind.</h3>
 
-- 🔧 Currently building with **Node.js, REST APIs, and databases**
-- 🌱 Actively exploring **backend engineering and cloud technologies**
-- 🤝 Looking to collaborate on **DevOps and Cloud-native projects**
-- 💬 Ask me about **React, Next.js, Tailwind CSS, or modern frontend stacks**
-- ⚡ Fun Fact: **Pokémon trainer by day, coder by night — balance is key!**
+<br/>
 
----
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">🌐 Let's Connect</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="48" alt="HTML logo" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="48" alt="CSS logo" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="48" alt="JavaScript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="48" alt="TypeScript logo" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" height="48" alt="React logo" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux Toolkit" height="48" alt="Redux logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" height="48" alt="Next.js logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="48" alt="Tailwind CSS logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" height="48" alt="Bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="48" alt="Node.js logo" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" height="48" alt="Express logo" />
+  <img src="https://ejs.co/favicon.svg" title="EJS" height="48" alt="EJS logo" style="background-color: white; border-radius: 6px; padding: 4px;" />
+  <img src="https://skillicons.dev/icons?i=mongo" title="MongoDB" height="48" alt="MongoDB logo" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="48" alt="Firebase logo" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="48" alt="Vercel logo" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" height="48" alt="C logo" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="48" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="48" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=npm" title="NPM" height="48" alt="NPM logo" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="48" alt="Figma logo" />
+</div>
 
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-</p>
+<br/>
 
 ---
 

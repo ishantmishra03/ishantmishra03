@@ -27,7 +27,13 @@
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="48" alt="GitHub logo" />
   <img src="https://skillicons.dev/icons?i=npm" title="NPM" height="48" alt="NPM logo" />
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" height="48" alt="Figma logo" />
+  <img src="https://skillicons.dev/icons?i=java" title="JAVA" height="48" alt="JAVA logo" />
 </div>
+
+<br/>
+<p align="center">
+  Always eager to learn new technologies and tackle challenging problems through clean, maintainable code.
+</p>
 
 <br/>
 
